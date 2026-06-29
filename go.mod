@@ -4,6 +4,6 @@ go 1.23
 
 require (
 	github.com/cloudflare/tableflip v1.2.3
-	github.com/codechimp-io/log v1.1.15
+	github.com/codechimp-io/log v1.1.16
 	github.com/oklog/run v1.2.0
 )
